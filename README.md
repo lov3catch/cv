@@ -46,9 +46,7 @@ additionally: in free time made Telegram-bot for our service</p>
 <ul>
 <li>SICP (structure and interpretation of computer programs), Compilers: Principles, Techniques, and Tools</li>
 <li>LISP (Clojure)</li>
-<li>OOP in SmallTals (back to the roots)</li>
-<li>Make mini-search engine (for self pet-project)</li>
-<li>revork pet-project: Telegram bot for download audio-tracks</li>
+<li>Revork pet-project (from python to php): Telegram bot for download audio-tracks</li>
 </ul>
 <p><b>Education</b><br>
 Vinnitsa Technical College: Service of intelligent systems and networks<br>
