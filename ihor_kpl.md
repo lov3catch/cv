@@ -1,8 +1,14 @@
 <p><b>Kopyl Ihor</b><br>
-Python\PHP<br>
+Software Engineer<br>
 +380968279345 (Viber/Telegram)<br>
 <a href="https://github.com/lov3catch">https://github.com/lov3catch</a><br>
 <a href="https://www.linkedin.com/in/igorkpl/">https://www.linkedin.com/in/igorkpl/</a></p>
+
+Languages:
+PHP - as main tool
+Familiar with: python, f#, bash
+
+Improve code quality checking for our pull requests for better quality codebase.
 
 <p><b>Experience Summary</b><br>
 Softwer development: 5.5+ years<br>
