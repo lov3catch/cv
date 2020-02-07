@@ -1,8 +1,8 @@
 Копыл Игорь
 PHP - разработчик
 +380968279345 (Viber/Telegram)
-Github: <a href="https://github.com/lov3catch">https://github.com/lov3catch</a>
-linkedin: <a href="https://www.linkedin.com/in/igorkpl/">https://www.linkedin.com/in/igorkpl/</a>
+Github: https://github.com/lov3catch
+linkedin: https://www.linkedin.com/in/igorkpl/
 
 ЯП:
 Основной инструмент: PHP
@@ -17,7 +17,7 @@ PHP - разработчик
 Дополнительн (в свободное время):
 - (готово) интегрировал PHPStan (статический анализатор кода) в паплайн нашего CVS с целью улучшения общей кодовой базы
 - (готово) реализовал Telegram-бот для нашего сервиса (ЯП: Python, Платформа: Heroku, БД: PGSQL)
-- (в процессе) обертка над api банковского сервиса (https://github.com/lov3catch/apibank-client-php)
+- (в процессе) библиотека для интеграции банковского сервиса (https://github.com/lov3catch/apibank-client-php)
 
 Laniakea (11 месяцев)
 PHP/Python - разработчик
@@ -47,6 +47,7 @@ Juniour Python - разработчик
 - реализовал апи для мобильного приложения (Python, Django)
 
 Дополнительно о себе:
-Хобби: чат боты, чутка оперсорс
+Хобби: чат боты
 Сейчас интересуюсь: ELK стэк, Clojure, микросервисы
-Образование: Винницией технический колледж (комп. сети и системы), Хмельницкий национальный университет (комп. науки)
+Участие в опенсорс: https://github.com/makasim/telegram-bot-php
+Образование: Винницкий технический колледж (комп. сети и системы), Хмельницкий национальный университет (комп. науки)
