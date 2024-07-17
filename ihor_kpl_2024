@@ -1,0 +1,52 @@
+Копыл Игорь (Python/PHP developer)
++380968279345
+igor.sergeevich.k@gmail.com
+Github: https://github.com/lov3catch
+Linkedin: https://www.linkedin.com/in/igorkpl/
+Promorepublic (09.2020-now)
+Реализовал и интегрировал направление Social Inbox (facebook, instagram, google-my-business), а так же - ряд вспомогательных проектов для данного направления.
+Принимал участие в проектировании комплексных задач.
+Рефакторинг легаси кода с целью снижения стоимости создания новых ценностей.
+Дополнительно
+Реализовал Queue-сервис, как локальный аналог Apache Kafka
+Реализовал мониторинг и оповещения
+Реализовал переезд в контейнеры (docker + docker swarm)
+Добавил проверки качества кода в существующий CI/CD: phpstan, phpcs
+Состав команды:
+PHP, Symfony, Redis, Portainer, Docker, Docker Swarm, Prometheus, Alertmanager, Python, PHPStan, OpenAPI, MongoDB, Wiremock, Ansible, Jenkins, Jira, Traefik
+
+LetyShops (02.2017 - 07.2020)
+Принимал участие в проектировании и реализации основного API продукта
+Реализовал mvp банкинг (комнда 3ч)
+работа в кросс-функциональных командах
+Дополнительно
+bitbucket бот-ревьювер с функцией комментирования, для статического анализа ПРов
+Бот-ассистент 
+PHP, Symfony, Redis, MySQL, RabbitMQ, Python, OpenAPI spec, PHPStan, Docker, Jira
+
+
+
+
+
+Not commercial experiense:
+Python, Apache Kafka, Apache Spark, Postgresql, Redis Streams, Apache Airflow
+
+Знаком с:
+GRASP, Patterns, SOLID, CQRS/Event Sourcing, DDD
+
+Курсы:
+Data Engineering (complete 2024)
+https://github.com/lov3catch/data_engineering
+Python, Apache Airflow, PostgreSQL, Apache Spark, Docker
+DevOps 2021(complete 2021)
+https://github.com/lov3catch/devops-for-developers
+Docker, Ansible, Terraform, 12 factors, Prometheus, DataDog, Python
+Data Science / Data Analyst (in plans)
+
+Образование:
+Хмельницкий национальный университет (комп. науки)
+
+
+
+
+
